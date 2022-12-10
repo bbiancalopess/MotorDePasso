@@ -13,7 +13,7 @@ o Velocidade - de 1 a 9.
 Funcionamento do software ao pressionar as seguintes teclas:
 
 | Tecla | Função | Display |
-| --- | --- | --- |
+|     :---:      |     :---:      |     :---:      |
 | 5 | parar o motor | “Parado” |
 | 4 | girar para a esquerda | “Esquerda” |
 | 6 | girar para a direita | “Direita” |
