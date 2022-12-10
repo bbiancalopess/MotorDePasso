@@ -1,4 +1,4 @@
-Projeto desenvolvido no ambiente IAR Embeded Workbench IDE; ver.: 5.60.2 e implementado em um microcontrolador MSP430F1611
+**Projeto desenvolvido no ambiente IAR Embeded Workbench IDE; ver.: 5.60.2 e implementado em um microcontrolador MSP430F1611**
 
 O projeto tem o intuito de desenvolver o controle de um motor de passo, em que são controladas a direção e a velocidade.
 
